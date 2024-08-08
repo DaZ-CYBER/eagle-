@@ -4,7 +4,7 @@ date: 2024-08-08 09:42:08
 tags: [vulnlab, Medium]
 categories: vulnlab
 keywords: 'Vulnlab, Medium, Windows'
-description: Sendai is an AD machine that focuses on a large quantity of different AD topics. There are a couple ways to exploit different parts of the attack path - to which I'll go over two methods that I was able to perform for both foothold and privilege escalation. I'm guessing that we'll see many similar tactics to the AD boxes that I've completed before.
+description: Media is one of the last Medium machines that I'll cover as a part of the medium machines chains. I still have to do the Linux machines along with Unintended (the only Linux-specific chain) but we'll get to those later. This machine covers NTLM theft along with exploiting symlinks and restoring an IIS accounts vulnerable privileges.
 cover: /images/vulnlab/media-vl/media_slide.png
 top_img: /images/cyberpunk-red.jpg
 toc: true
