@@ -228,7 +228,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/DaZ-CYBER
   card_announcement:
     enable: true
     content: This is a website where I post my writeups from Vulnlab & HTB, along with exploit research!
