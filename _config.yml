@@ -7,13 +7,13 @@ title: daz
 subtitle: 'Certified Red Team Operator'
 description: 'Certified Red Team Operator'
 keywords:
-author: Daniel Feliciano
+author: Daz
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://dan-feliciano.com
+url: http://daz-dev.tech
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

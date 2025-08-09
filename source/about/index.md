@@ -7,7 +7,7 @@ keywords: 'About'
 top_img: /images/cyberpunk-red.jpg
 ---
 
-My name is Daniel Feliciano. I am a certified Red Team Operator and recently graduated student from Pennsylvania State University at University Park. I have completed a major in Cybersecurity Analytics & Operations and a minor in Information Sciences & Technology. During my time at Penn State, I was the 2023 team captain of Penn State’s renowned ethical hacking team, a subsidiary of the larger Competitive Cybersecurity Organization at Penn State. I am also interested in culinary arts and traveling.
+My name is Daz. I am a certified Red Team Operator and recently graduated student from Pennsylvania State University at University Park. I have completed a major in Cybersecurity Analytics & Operations and a minor in Information Sciences & Technology. During my time at Penn State, I was the 2023 team captain of Penn State’s renowned ethical hacking team, a subsidiary of the larger Competitive Cybersecurity Organization at Penn State. I am also interested in culinary arts and traveling.
 
 Offensive security is not just a tool that can be used to describe and discover vulnerabilities in organization's in question, it can also be used as a learning experience in ethical hackers and security analysts alike. Data protection, resource retention, and public safety are all factors that contribute to the success of an organization.
 
