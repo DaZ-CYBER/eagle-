@@ -1,7 +1,7 @@
 
 ---
 title: PSU 2025 Intro CTF - Serinus
-date: 2024-09-04 17:53:00
+date: 2025-09-04 17:53:00
 tags: [ctf, pwn]
 categories: ctf
 keywords: 'CTF, PWN, PSU-2025-Intro CTF'
